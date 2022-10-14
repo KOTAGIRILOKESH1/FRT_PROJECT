@@ -2,7 +2,7 @@
 This is a RESTAURANT website for there daily lifestyle
 Here i create a Website which help users to order food
 
-## MyWebsite : https://victorious-pebble-07c65c910.1.azurestaticapps.net
+## MyWebsite : https://polite-flower-094f17410.2.azurestaticapps.net/
 
 
 ## Home page:
@@ -29,3 +29,4 @@ Here i create a Website which help users to order food
 https://youtu.be/ZOSqaQltKEA
 
 ## azure portal screenshot
+![WhatsApp Image 2022-10-14 at 7 59 41 PM](https://user-images.githubusercontent.com/109749472/195872117-2b3fa5d1-d041-4ea0-84e2-6c1bcbdd5679.jpeg)
